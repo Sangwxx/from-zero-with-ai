@@ -26,3 +26,13 @@
 ## 后续计划
 
 本仓库将持续更新我在学习、工作和科研中使用 AI 的真实经历、思考与实践。
+
+## 相关项目
+
+本文对应的自动化工具：
+[https://github.com/Sangwxx/obsidian-research-kb](https://github.com/Sangwxx/obsidian-research-kb)
+
+完整实践系列：
+[https://github.com/Sangwxx/from-zero-with-ai](https://github.com/Sangwxx/from-zero-with-ai)
+
+本项目采用 [MIT License](LICENSE)。
